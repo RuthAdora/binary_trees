@@ -1,4 +1,4 @@
-esources
+Resources
 Read or watch:
 
 Binary tree (note the first line: Not to be confused with B-tree.)
