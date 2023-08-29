@@ -1,3 +1,17 @@
+by: Ruth Adora and Victor Lenny
+
+
+
+![Binary search trees](https://github.com/RuthAdora/binary_trees/assets/125592181/9177075a-28e6-44f9-afe4-c9aa7c680f0e)
+
+
+
+
+
+
+
+
+
 Resources
 Read or watch:
 
